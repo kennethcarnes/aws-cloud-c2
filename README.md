@@ -1,4 +1,9 @@
-## Getting Started
+# Docs
+[Cloud C2 Docs](https://docs.hak5.org/cloud-c2/getting-started/installation-and-setup)
+[Cloud C2 Setup](https://www.youtube.com/watch?v=TIpx_ENurLY)
+[Setting up Cloud C2 as a Service](https://www.youtube.com/watch?v=rgmL75ZBfSI)
+
+# Getting Started
 1. Create AWS IAM User w/ necessary permissions and key pair.
 
 2. Create environment variables in GitLab Project > Settings > CI/CD:
